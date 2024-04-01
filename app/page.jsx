@@ -12,9 +12,9 @@ export default function Home() {
       <Hero/>
       <About/>
       <Interests/>
-      {/* <Work/>
+      <Work/>
       <Reviews/>
-      <Cta/> */}
+      <Cta/>
     </main>
   );
 }
